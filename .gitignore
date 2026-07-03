@@ -1,0 +1,9 @@
+.Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.cache/
+tmp/
